@@ -1,6 +1,6 @@
 environment: prod
 
 db:
-  username: app2-prod
-  password: app2-prod
-  url: app2-prod-url
+  username: app5-prod
+  password: app5-prod
+  url: app5-prod-url

@@ -1,11 +1,11 @@
 ---
 app:
-  name: app2
+  name: app5
 
 environment: default
 
 db:
-  name: app2
+  name: app5
   username:
   password:
   url:
