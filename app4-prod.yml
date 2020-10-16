@@ -1,0 +1,6 @@
+environment: prod
+
+db:
+  username: app4-prod
+  password: app4-prod
+  url: app4-prod-url
