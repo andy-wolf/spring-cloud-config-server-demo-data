@@ -1,0 +1,6 @@
+environment: prod
+
+db:
+  username: app6-prod
+  password: app6-prod
+  url: app6-prod-url

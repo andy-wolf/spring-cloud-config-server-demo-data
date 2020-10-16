@@ -1,0 +1,6 @@
+environment: dev
+
+db:
+  username: app6-dev
+  password: app6-dev
+  url: app6-dev-url
