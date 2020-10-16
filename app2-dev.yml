@@ -2,5 +2,5 @@ environment: dev
 
 db:
   username: app2-dev
-  password: "{cypher}05d2e95f6e010d9212d90c384b4f82d3f813f48f251e0c476126333237dc75fd"
+  password: "{cipher}05d2e95f6e010d9212d90c384b4f82d3f813f48f251e0c476126333237dc75fd"
   url: app2-dev-url
