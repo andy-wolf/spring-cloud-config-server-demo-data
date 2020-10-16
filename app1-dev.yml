@@ -1,0 +1,6 @@
+environment: dev
+
+db:
+  username: app1-dev
+  password: app1-dev
+  url: app1-dev-url

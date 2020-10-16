@@ -1,0 +1,6 @@
+environment: prod
+
+db:
+  username: app2-prod
+  password: {cypher}bab3aba658fbbe33ed11dbe781b3c7290d794d2b10d3cc7f5dd10ea713d0464c
+  url: app2-prod-url

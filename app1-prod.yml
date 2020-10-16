@@ -1,0 +1,6 @@
+environment: prod
+
+db:
+  username: app1-prod
+  password: app1-prod
+  url: app1-prod-url
